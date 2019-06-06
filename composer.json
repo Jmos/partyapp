@@ -1,0 +1,15 @@
+{
+  "name": "jmos/partyapp",
+  "description": "partyapp",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+"name": "jmos",
+      "email": "janos.meggyeshazi@gmail.com"
+    }
+  ],
+  "require": {
+    "atk4/ui": "1.7.0"
+  }
+}
